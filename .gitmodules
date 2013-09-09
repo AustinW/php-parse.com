@@ -1,0 +1,3 @@
+[submodule "src/parse.com-php-library"]
+	path = src/parse.com-php-library
+	url = https://github.com/apotropaic/parse.com-php-library.git
